@@ -1,2 +1,3 @@
-# agent-sdk-exp
+# Investor Agent
+
 Mini app build in Agent SDK
